@@ -1,7 +1,7 @@
 # Autodesk Devcon 2026, event report
 The following text presents my experience at the Autodesk Devcon 2026 event.
 The Event was organized by Autodesk with participation by a number of collaborating companies.
-The event took place on wednesday 15 and thursday april 16, 2026, at the Beurs van Berlage in Amsterdam.
+The event took place on Wednesday 15 and Thursday april 16, 2026, at the Beurs van Berlage in Amsterdam.
 
 ## Session 1: Automatic pattern generation for tiling the roof of the Sydney opera house
 Two programmers from 4G architect presented their workflow for automatic design of a tiling pattern.
