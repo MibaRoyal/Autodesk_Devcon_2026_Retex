@@ -17,7 +17,7 @@ The hypothetical integrated system would then enable a user to track job process
 No actual projects were presented, only possibilities, a few non-live examples, and many stock-footage like 3D animations.
 _Remark: This speaker used the word "imagine" many times; the presentation was heavily speculative and hype-oriented; whether a stable, fast, efficient system, that runs reliably on low-grade hardware, can at all be created, remains to be seen._
 
-## Session 3: Integrated language model system for checking technical room compliance in project "Grand Paris Express",
+## Session 3: Combined language model + cloud system for checking technical room compliance in project "Grand Paris Express",
 French engineering / developers team at EGIS was tasked with designing a system for evaluating a large number of technical rooms designs, for the massive Grand Paris Express metro line.
 The automation team created a system which could answer user questions on the design of thechnical rooms, specifically about norm compliance or clashes.
 The system read and analyzed hundreds of Revit models and hundreds of norm specifications.
@@ -28,7 +28,7 @@ The system read and analyzed hundreds of Revit models and hundreds of norm speci
 
 _Remark: This presentation showed an actual real-world solution. A similar , within a huge project with repetitive tasks. A similar system would benefit a similarly large project like Pallas._
 
-## Session 4: Integrated platform "Viktor" for handling Revit models and other applications.
+## Session 4: platform "Viktor" for handling Revit models and other applications.
 The Viktor platform allows users to instruct a language model to perform different operations on Revit models.
 It can also design workflows including exporting building information to other applications, like a finite element analysis for structural calculations.
 The Viktor.ai system can generate simple Python scripts to extract and process information from a Revit model. It is unclear how linked models behave.
