@@ -28,8 +28,6 @@ The system read and analyzed hundreds of Revit models and hundreds of norm speci
 
 _Remark: This presentation showed an actual real-world solution. A similar , within a huge project with repetitive tasks. A similar system would benefit a similarly large project like Pallas._
 
-_A high-quality Lunch was included in the entry ticket._
-
 ## Session 4: Integrated platform "Viktor" for handling Revit models and other applications.
 The Viktor platform allows users to instruct a language model to perform different operations on Revit models.
 It can also design workflows including exporting building information to other applications, like a finite element analysis for structural calculations.
@@ -56,7 +54,7 @@ Of the presentation I attended:
 3) There is a real need for reading and understanding layout drawings (as in accurately describing in text); OpenSpace says their system "may" do that; ChatGPT presently seems to have this ability to a certain degree.
 4) The presented "platforms" or "systems"  Viktor and OpenSpace were little more than sandboxes or proofs-of-concept, without field-proven applications to present.
 
-The event was clearly commercial in nature, with many logos, free lunch, dramatic slogans, presentations of barely working hypothetical and experimental systems.
+The event was clearly commercial in nature, with many logos, free high-quality lunch, dramatic slogans, presentations of barely working hypothetical and experimental systems.
 Actual engineering solutions, typically more plain and drab, were not prominently visible.
 
 
