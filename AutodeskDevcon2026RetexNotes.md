@@ -1,5 +1,4 @@
-#Autodesk Devcon 2026, retex notes
-
+# Autodesk Devcon 2026, retex notes
 ## Session 1: Automatic pattern generation for tiling the spherical roof of the Sydney opera house, by "4G Architecture".
 Interestingly, the first slide showd an AI-generated "spacecraft"-like impossible façade, with a wrongly fitting window. The audience took pictures of it; apparently the public still buys this slop.
 The Revit model is imported in Rhino to generate a parametric mesh.
