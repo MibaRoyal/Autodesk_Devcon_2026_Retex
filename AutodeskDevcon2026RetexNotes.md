@@ -11,7 +11,7 @@ The workflow was operatied from within Revit with a dedicated tool. Operation of
 _Remark: This presentation did not document the application of language models; it presented the integration of Revit, Rhino and an algorithmic solver._
 
 ## Session 2: Integration of data collections for job site management, by "Open Space".
-This Californian company proposes a concept platform for integrating different data collections.
+This Californian company proposes an imaginary platform for integrating different data collections.
 The idea is to integrate point cloud, rayban sunglasses, sensor position data, language model analysis of layout drawings, 360 site photos, norms and requirements.
 The hypothetical integrated system would then enable a user to track job process, identify code violations and safety issues, delays in execution, process invoices and payments, and so forth.
 No actual projects were presented, only possibilities, a few non-live examples, and many stock-footage like 3D animations.
