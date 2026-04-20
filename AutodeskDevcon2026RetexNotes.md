@@ -24,7 +24,7 @@ The idea is to integrate the following data collections:
 5) language model absorption of norms, documentation, requirements.
 
 The hypothetical integrated system would then enable a user to track job process, identify code violations and safety issues, delays in execution, process invoices and payments, and so forth.
-No actual projects were presented, only hypothetical possibilities and a few sandbox examples.
+No actual projects were presented, only hypothetical possibilities and very polished, stock-footage like 3D animations.
 _Remark: This speaker used the word "imagine" many times; the presentation was heavily speculative and hype-oriented; whether a stable, fast, efficient system, that runs reliably on low-grade hardware, can at all be created, remains to be seen._
 
 ## Session 3: Integrated language model system for checking technical room compliance in project "Grand Paris Express", by EGIS engineering company (FR).
