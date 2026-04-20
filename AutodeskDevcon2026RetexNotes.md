@@ -53,9 +53,9 @@ _Remark: The rest of the article feels inflated, lots of catchy jargon with litt
 # Concluding remarks
 Two of the four presentation I attended were actual solutions to problems using AI; the other two were little more than proofs of concept and hypotheses.
 Of the presentation I attended:
-1) Converting information in human formats, such as norms and standards, into information searchable by machines: this was discussed by EGIS, Bosch, Open Space; only EGIS presented a real-world use of this solution.
-2) Reading and understanding Revit files seems possible; processing and modifying the Revit information might be possible with Viktor, to a certain degree, after getting used to the buggy workflow.
-3) Reading and understanding layout drawings is a real behoefte; no clearly field-proven solution was presented.
+1) There is a real need for converting information encoded for humans, such as texts and images in norms and standards, into information searchable by machines. This was discussed by EGIS, Bosch, Open Space; only EGIS presented a field-proven succesful solution.
+2) Reading and understanding Revit files was demonstrated by EGIS and Viktor; it seems feasible; processing and modifying the Revit information might be possible with Viktor, to a certain degree, after getting used to the buggy workflow.
+3) There is a real need for reading and understanding layout drawings (as in accurately describing in text), sketches and photos; no clearly field-proven solution was presented.
 4) The presented "platforms" or "systems"  Viktor and OpenSpace were little more than sandboxes or proofs-of-concept.
 
 The event was clearly commercial in nature, with many logos, free lunch, catchy slogans, presentations of barely working hypothetical and experimental systems.
