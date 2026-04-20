@@ -22,3 +22,6 @@ The hypothetical integrated system would then enable a user to track job process
 No actual projects were presented, only hypothetical possibilities and a few sandbox examples.
 _Remark: This speaker used the word "imagine" many times; the presentation was heavily speculative and hype-oriented; whether a stable, fast, efficient system, that runs reliably on low-grade hardware, can at all be created, remains to be seen._
 
+## Session 3: Integrated language model system for checking technical room compliance in project "Grand PAris Express", by EGIS engineering company (FR).
+This French engineering team was tasked with designing the technical rooms for the massive Grand Paris Express metro line.
+The project entailed checking tens of technical rooms, hundreds of BIM models, against hundreds of norms.
