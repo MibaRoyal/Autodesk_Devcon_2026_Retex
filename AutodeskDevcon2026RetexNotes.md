@@ -47,7 +47,7 @@ A leaflet was handed out, pointing to Bosch’s article about their Open Buildin
 _Remark: The rest of the article feels inflated, lots of catchy jargon with little proof. It reads more like a strategy pitch and hype-milking than a serious engineering solution._
 
 # Concluding remarks
-Two of the four presentation I attended were actual solutions to problems using AI; the other two were little more than proofs of concept and hypotheses.
+Only one of the four presentation I attended were actual solutions to problems using language models; one was an algorithmic solver, the other two were proofs of concept and hypotheses.
 Of the presentation I attended:
 1) There is a real need for converting information encoded for humans, such as texts and images in norms and standards, into information searchable by machines. This was discussed by EGIS, Bosch, Open Space; only EGIS presented a field-proven succesful solution.
 2) Reading and understanding Revit files was demonstrated by EGIS and Viktor; it seems feasible; processing and modifying the Revit information might be possible with Viktor, to a certain degree, after getting used to the buggy workflow.
