@@ -15,15 +15,9 @@ _Remark: This presentation did not document the application of language models; 
 
 ## Session 2: Integration of data collections for job site management, by "Open Space".
 This Californian company proposes a concept platform for integrating different data collections.
-The idea is to integrate the following data collections:
-1) point cloud, captured with lidar glasses
-2) position encoding of the walkthrough route with sensor data, for example bluetooth
-3) language model analysis of layout drawings,
-4) language model analysis of site photos, normal and 360deg
-5) language model absorption of norms, documentation, requirements.
-
+The idea is to integrate point cloud, rayban sunglasses, sensor position data, language model analysis of layout drawings, 360 site photos, norms and requirements.
 The hypothetical integrated system would then enable a user to track job process, identify code violations and safety issues, delays in execution, process invoices and payments, and so forth.
-No actual projects were presented, only hypothetical possibilities and very polished, stock-footage like 3D animations.
+No actual projects were presented, only possibilities, a few non-live examples, and many stock-footage like 3D animations.
 _Remark: This speaker used the word "imagine" many times; the presentation was heavily speculative and hype-oriented; whether a stable, fast, efficient system, that runs reliably on low-grade hardware, can at all be created, remains to be seen._
 
 ## Session 3: Integrated language model system for checking technical room compliance in project "Grand Paris Express", by EGIS engineering company (FR).
