@@ -1,4 +1,8 @@
 # Autodesk Devcon 2026, retex notes
+## Fortune article "AI at the frontier: Capability, adoption, and the Road Ahead" by Jeremy Kahn, was offered at the entrance.
+Kahn's article states that AI is advancing fast and already delivers strong results in some real-world tasks, especially in coding. But its capabilities remain uneven, with clear overall weaknesses; actual use in engineering reamins lower than 20%. Success will depend less on the model quality and more on governance, oversight, and well-designed human-AI workflows.
+_Remark: It is unclear how the article measures theoretical AI coverage and "strong results". I suspect this is hype-driving._
+
 ## Session 1: Automatic pattern generation for tiling the spherical roof of the Sydney opera house, by "4G Architecture".
 Interestingly, the first slide showd an AI-generated "spacecraft"-like impossible façade, with a wrongly fitting window. The audience took pictures of it; apparently the public still buys this slop.
 The Revit model is imported in Rhino to generate a parametric mesh.
