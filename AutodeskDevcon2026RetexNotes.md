@@ -1,7 +1,6 @@
 # Autodesk Devcon 2026, retex notes
 
 ## Session 1: Automatic pattern generation for tiling the spherical roof of the Sydney opera house, by "4G Architecture".
-
 The Revit model is imported in Rhino to generate a parametric mesh.
 To generate the mesh, dimensions and parameters of the shingles were also recorded.
 An algorithm called "kangaroo solver" iterated through solutions to find a suitable arrangement of shingles.
@@ -43,6 +42,9 @@ The language model is running a Claude engine. A free demo is available but is v
 The presentation emo was heavily "sandboxed" and used a very simple model without links.
 Practical use of the platform during a personal enquiry of this writer immediately showed a few bugs and the typical shortcomings of language model behaviour: misunderstanding the prompt and beating around the bush.
 _Remark: This company also showed clear signs of "wishful thinking", glossing over the difficulties of real-life application to real projects, and had no real projects to document._
+
+## Hand-out leaflet documenting the "Open Building Service Reference" by bosch and Autodesk
+A leaflet was handed out, pointing to Bosch’s article about their Open Building Service Reference. The article says it wants to turn messy building data into usable digital building models for maintenance and operations. That basic idea is plausible. The rest of the article feels inflated, lots of catchy jargon with little proof. It reads more like a strategy pitch than a engineering result.
 
 
 
