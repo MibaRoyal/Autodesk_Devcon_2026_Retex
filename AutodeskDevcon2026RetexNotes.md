@@ -1,6 +1,6 @@
 # Autodesk Devcon 2026, event participation report
 The following text presents my experience at the Autodesk Devcon 2026 event.
-The Event was organized by Autodesk with participation by a number of collaborating companies.
+The Event was organized by Autodesk in collaboration with a number of companies.
 The event took place on Wednesday 15 and Thursday april 16, 2026, at the Beurs van Berlage in Amsterdam. I participated on April 16th and took part in four sessions.
 
 ## Session 1: Automatic pattern generation for tiling the roof of the Sydney opera house
