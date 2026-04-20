@@ -24,11 +24,11 @@ _Remark: This speaker used the word "imagine" many times; the presentation was h
 
 ## Session 3: Integrated language model system for checking technical room compliance in project "Grand PAris Express", by EGIS engineering company (FR).
 This French engineering team was tasked with designing the technical rooms for the massive Grand Paris Express metro line.
-The automation team created a system which could answer user questions on the design of thechnical rooms, specifically about norm compliance.
+The automation team created a system which could answer user questions on the design of thechnical rooms, specifically about norm compliance or clashes.
 The system read and analyzed hundreds of BIM models and hundreds of norm specifications.
 1) The human-written French norms are filed as tables with admixed text, images, formatting and so on. These were converted to JSON tables of parameters with a language model.
 2) The collection of JSON parameters, and the many BIM models, were hosted on the Autodesk Platform Service cloud, which allowed parallel processing of several requests and storing the system code, offering it to the user by session.
-3) 
+3) Depending on the user request, the system could generate isometric or section details, to document compliance to a certain norm parameter, and generate a text report presenting the result.
 4) 
 
 
