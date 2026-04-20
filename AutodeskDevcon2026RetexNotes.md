@@ -40,6 +40,7 @@ The Viktor.ai system can generate simple Python scripts to extract and process i
 The language model is running a Claude engine. A free demo is available but is very limited.
 The presentation emo was heavily "sandboxed" and used a very simple model without links.
 Practical use of the platform during a personal enquiry of this writer immediately showed a few bugs and the typical shortcomings of language model behaviour: misunderstanding the prompt and beating around the bush.
+The Viktor stand showed a video of application to the design of a Hello Fresh warehouse; unfortunately I couldn't check the quality of this evidence.
 _Remark: This company also showed clear signs of "wishful thinking", glossing over the difficulties of real-life application to real projects, and had no real projects to document._
 
 ## Hand-out leaflet: Fortune article "AI at the frontier: Capability, adoption, and the Road Ahead" by Jeremy Kahn.
@@ -58,7 +59,7 @@ Of the presentation I attended:
 3) There is a real need for reading and understanding layout drawings (as in accurately describing in text); OpenSpace says their system "may" do that; ChatGPT presently seems to have this ability to a certain degree.
 4) The presented "platforms" or "systems"  Viktor and OpenSpace were little more than sandboxes or proofs-of-concept, without field-proven applications to present.
 
-The event was clearly commercial in nature, with many logos, free lunch, catchy slogans, presentations of barely working hypothetical and experimental systems.
+The event was clearly commercial in nature, with many logos, free lunch, dramatic slogans, presentations of barely working hypothetical and experimental systems.
 Actual engineering solutions, typically more plain and drab, were not prominently visible.
 
 
