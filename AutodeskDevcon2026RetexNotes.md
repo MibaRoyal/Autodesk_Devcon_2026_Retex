@@ -17,7 +17,7 @@ The hypothetical integrated system would then enable a user to track job process
 No actual projects were presented, only possibilities, a few non-live examples, and many stock-footage like 3D animations.
 _Remark: This speaker used the word "imagine" many times; the presentation was heavily speculative and hype-oriented; whether a stable, fast, efficient system, that runs reliably on low-grade hardware, can at all be created, remains to be seen._
 
-## Session 3: Combined language model + cloud system for checking technical room compliance in project "Grand Paris Express",
+## Session 3: Combined language model + cloud system for checking technical room compliance in project "Grand Paris Express"
 French engineering / developers team at EGIS was tasked with designing a system for evaluating a large number of technical rooms designs, for the massive Grand Paris Express metro line.
 The automation team created a system which could answer user questions on the design of thechnical rooms, specifically about norm compliance or clashes.
 The system read and analyzed hundreds of Revit models and hundreds of norm specifications.
