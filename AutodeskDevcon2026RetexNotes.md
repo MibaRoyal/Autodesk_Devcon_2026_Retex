@@ -51,7 +51,7 @@ Only one of the four presentation I attended were actual solutions to problems u
 Of the presentation I attended:
 1) There is a real need for converting information encoded for humans, such as texts and images in norms and standards, into information searchable by machines. This was discussed by EGIS, Bosch, Open Space; only EGIS presented a field-proven succesful solution.
 2) Reading and understanding Revit files was demonstrated by EGIS and Viktor; it seems feasible; processing and modifying the Revit information might be possible with Viktor, to a certain degree, after getting used to the buggy workflow.
-3) There is a real need for reading and understanding layout drawings (as in accurately describing in text); OpenSpace says their system "may" do that; ChatGPT presently seems to have this ability to a certain degree.
+3) There is a real need for reading and understanding layout drawings (as in accurately describing in text); OpenSpace says their system "may" do that;
 4) The presented "platforms" or "systems"  Viktor and OpenSpace were little more than sandboxes or proofs-of-concept, without field-proven applications to present.
 
 The event was clearly commercial in nature, with many logos, free high-quality lunch, dramatic slogans, presentations of barely working hypothetical and experimental systems.
