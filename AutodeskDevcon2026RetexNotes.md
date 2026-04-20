@@ -9,6 +9,7 @@ To generate the mesh, dimensions and parameters of the shingles were also record
 An algorithm called "kangaroo solver" iterated through solutions to find a suitable arrangement of shingles.
 The generated arrangement pattern was exported from Rhino back into Revit.
 A similar approach was employed to generate a pattern and arrays of panels following a radial arrangement.
+The workflow was operatied from within Revit with a dedicated tool. Operation of the tool was shown with a screen capture video.
 The second approach, which was seemingly selected for production, entailed the algorithmic generation of packaging lists for packing the irregular shaped panels.
 _Remark: This presentation did not document the application of language models; it presented the integration of Revit, Rhino and an algorithmic solver._
 _Remark: The first slide showed an AI-generated "spacecraft"-like façade, with a wrongly fitting "window". The audience took pictures of it; apparently the public still buys this slop._
@@ -37,6 +38,8 @@ The system read and analyzed hundreds of Revit models and hundreds of norm speci
 
 _Remark: This presentation showed an actual project, and the complexity of integrating different data sources in different formats. A similar system would benefit a project like Pallas._
 
+## Lunch was included in the entry ticket; it consisted of mini-portions of warm stews, salads, brownies. Coffee and drinks were free, with servers in uniform. Felt like luxury treatment.
+
 ## Session 4: Integrated platform "Viktor" for handling Revit models and other applications.
 The Viktor platform allows users to instruct a language model to perform different operations on Revit models.
 It can also design workflows including exporting building information to other applications, like a finite element analysis for structural calculations.
@@ -54,6 +57,14 @@ _Remark: It is unclear how the article measures theoretical AI coverage and "str
 A leaflet was handed out, pointing to Bosch’s article about their Open Building Service Reference. The article says it wants to turn messy building data into usable digital building models for maintenance and operations. That basic idea is plausible.
 _Remark: The rest of the article feels inflated, lots of catchy jargon with little proof. It reads more like a strategy pitch and hype-milking than a serious engineering solution._
 
+# Concluding personal remarks
+The event was clearly commercial in nature.
+Two of the four presentation I attended were actual solutions to problems using AI; the other two were little more than proofs of concept and hypotheses.
+Of the presentation I attended:
+1) Converting information in human formats, such as norms and standards, into information searchable by machines: this was discussed by EGIS, Bosch, Open Space; only EGIS presented a real-world use of this solution.
+2) Integrating information in diverse formats (PDF, Revit, etc) is a real behoefte; no field-proven solution was presented.
+3) Observing and "understanding" images, photos and drawings, is a real behoefte; no field-proven solution was presented.
+4) The presented "platforms" or "systems" were either simple sandboxes, proofs-of-concepts.
 
 
 
