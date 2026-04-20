@@ -48,7 +48,7 @@ _Remark: The rest of the article feels inflated, lots of catchy jargon with litt
 
 # Concluding remarks
 Only one of the four presentation I attended were actual solutions to problems using language models; one was an algorithmic solver, the other two were proofs of concept and hypotheses.
-Of the presentation I attended:
+Moreover:
 1) There is a real need for converting information encoded for humans, such as texts and images in norms and standards, into information searchable by machines. This was discussed by EGIS, Bosch, Open Space; only EGIS presented a field-proven succesful solution.
 2) Reading and understanding Revit files was demonstrated by EGIS and Viktor; it seems feasible; processing and modifying the Revit information might be possible with Viktor, to a certain degree, after getting used to the buggy workflow.
 3) There is a real need for reading and understanding layout drawings (as in accurately describing in text); OpenSpace says their system "may" do that;
