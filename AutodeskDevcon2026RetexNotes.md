@@ -43,6 +43,10 @@ The presentation emo was heavily "sandboxed" and used a very simple model withou
 Practical use of the platform during a personal enquiry of this writer immediately showed a few bugs and the typical shortcomings of language model behaviour: misunderstanding the prompt and beating around the bush.
 _Remark: This company also showed clear signs of "wishful thinking", glossing over the difficulties of real-life application to real projects, and had no real projects to document._
 
+## Hand-out leaflet: Fortune article "AI at the frontier: Capability, adoption, and the Road Ahead" by Jeremy Kahn.
+Kahn's article states that AI is advancing fast and already delivers strong results in some real-world tasks, especially in coding. But its capabilities remain uneven, with clear overall weaknesses; actual use in engineering reamins lower than 20%. Success will depend less on the model quality and more on governance, oversight, and well-designed human-AI workflows.
+_Remark: It is unclear how the article measures theoretical AI coverage and "strong results". I suspect this is hype-driving._
+
 ## Hand-out leaflet documenting the "Open Building Service Reference" by bosch and Autodesk
 A leaflet was handed out, pointing to Bosch’s article about their Open Building Service Reference. The article says it wants to turn messy building data into usable digital building models for maintenance and operations. That basic idea is plausible. The rest of the article feels inflated, lots of catchy jargon with little proof. It reads more like a strategy pitch than a engineering result.
 
