@@ -26,7 +26,7 @@ The system read and analyzed hundreds of Revit models and hundreds of norm speci
 3) Depending on the user request, the system could generate isometric or section details, to document compliance to a certain norm parameter, and generate a text report presenting the result.
 4) The handling and closure of issue requests was proposed by the language model and final check was done by a human.
 
-_Remark: This presentation showed an actual real-world solution. A similar system would benefit a project like Pallas._
+_Remark: This presentation showed an actual real-world solution. A similar , within a huge project with repetitive tasks. A similar system would benefit a similarly large project like Pallas._
 
 ## Lunch was included in the entry ticket; it consisted of mini-portions of warm stews, salads, brownies. Coffee and drinks were free, with servers in uniform. Felt like luxury treatment.
 
