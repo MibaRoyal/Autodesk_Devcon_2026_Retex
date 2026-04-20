@@ -4,7 +4,6 @@ The Event was organized by Autodesk with participation by a number of collaborat
 The event took place on wednesday 15 and thursday april 16, 2026, at the Beurs van Berlage in Amsterdam.
 
 ## Session 1: Automatic pattern generation for tiling the spherical roof of the Sydney opera house, by "4G Architecture".
-
 The Revit model is imported in Rhino to generate a parametric mesh.
 To generate the mesh, dimensions and parameters of the shingles were also recorded.
 An algorithm called "kangaroo solver" iterated through solutions to find a suitable arrangement of shingles.
@@ -13,10 +12,8 @@ A similar approach was employed to generate a pattern and arrays of panels follo
 The workflow was operatied from within Revit with a dedicated tool. Operation of the tool was shown with a screen capture video.
 The second approach, which was seemingly selected for production, entailed the algorithmic generation of packaging lists for packing the irregular shaped panels.
 _Remark: This presentation did not document the application of language models; it presented the integration of Revit, Rhino and an algorithmic solver._
-_Remark: The first slide showed an AI-generated "spacecraft"-like façade, with a wrongly fitting "window". The audience took pictures of it; apparently the public still buys this slop._
 
 ## Session 2: Integration of data collections for job site management, by "Open Space".
-
 This Californian company proposes a concept platform for integrating different data collections.
 The idea is to integrate the following data collections:
 1) point cloud, captured with lidar glasses
@@ -38,7 +35,7 @@ The system read and analyzed hundreds of Revit models and hundreds of norm speci
 3) Depending on the user request, the system could generate isometric or section details, to document compliance to a certain norm parameter, and generate a text report presenting the result.
 4) The handling and closure of issue requests was proposed by the language model and final check was done by a human.
 
-_Remark: This presentation showed an actual project, and the complexity of integrating different data sources in different formats. A similar system would benefit a project like Pallas._
+_Remark: This presentation showed an actual real-world solution. A similar system would benefit a project like Pallas._
 
 ## Lunch was included in the entry ticket; it consisted of mini-portions of warm stews, salads, brownies. Coffee and drinks were free, with servers in uniform. Felt like luxury treatment.
 
@@ -67,6 +64,8 @@ Of the presentation I attended:
 2) Integrating information in diverse formats (PDF, Revit, etc) is a real behoefte; no field-proven solution was presented.
 3) Observing and "understanding" images, photos and drawings, is a real behoefte; no field-proven solution was presented.
 4) The presented "platforms" or "systems" were either simple sandboxes, proofs-of-concepts.
+5) The first presentation contained slide showing an AI-generated "spacecraft"-like façade, with a wrongly fitting "window". The audience rushed to take photos, showing interest in the slop.
+
 
 
 
