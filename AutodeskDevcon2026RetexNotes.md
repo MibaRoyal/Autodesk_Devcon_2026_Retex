@@ -28,7 +28,7 @@ The system read and analyzed hundreds of Revit models and hundreds of norm speci
 
 _Remark: This presentation showed an actual real-world solution. A similar , within a huge project with repetitive tasks. A similar system would benefit a similarly large project like Pallas._
 
-_Lunch was included in the entry ticket; it consisted of mini-portions of warm stews, salads, brownies. Coffee and drinks were free, with servers in uniform. Felt like luxury treatment._
+_A high-quality Lunch was included in the entry ticket._
 
 ## Session 4: Integrated platform "Viktor" for handling Revit models and other applications.
 The Viktor platform allows users to instruct a language model to perform different operations on Revit models.
