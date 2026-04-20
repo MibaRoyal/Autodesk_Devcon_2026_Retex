@@ -33,6 +33,15 @@ The system read and analyzed hundreds of Revit models and hundreds of norm speci
 
 _Remark: This presentation showed an actual project, and the complexity of integrating different data sources in different formats. A similar system would benefit a project like Pallas._
 
+## Session 4: Integrated platform "Viktor" for handling Revit models and other applications.
+The Viktor platform allows users to instruct a language model to perform different operations on Revit models.
+It can also design workflows including exporting building information to other applications, like a finite element analysis for structural calculations.
+The Viktor.ai system can generate simple Python scripts to extract and process information from a Revit model. It is unclear how linked models behave.
+The language model is running a Claude engine. A free demo is available but is very limited.
+The presentation emo was heavily "sandboxed" and used a very simple model without links.
+Practical use of the platform during a personal enquiry of this writer immediately showed a few bugs and the typical shortcomings of language model behaviour: misunderstanding the prompt and beating around the bush.
+_Remark: This company also showed clear signs of "wishful thinking", glossing over the difficulties of real-life application to real projects, and had no real projects to document._
+
 
 
 
