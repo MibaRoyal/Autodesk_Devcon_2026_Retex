@@ -3,22 +3,22 @@ The following text presents my experience at the Autodesk Devcon 2026 event.
 The Event was organized by Autodesk with participation by a number of collaborating companies.
 The event took place on wednesday 15 and thursday april 16, 2026, at the Beurs van Berlage in Amsterdam.
 
-## Session 1: Automatic pattern generation for tiling the spherical roof of the Sydney opera house, by "4G Architecture".
+## Session 1: Automatic pattern generation for tiling the roof of the Sydney opera house
 Two programmers from 4G architect presented their workflow for automatic design of a tiling pattern.
 The Revit model is imported in Rhino to generate a parametric mesh. An algorithm called "kangaroo solver" iterated through solutions to find a suitable arrangement of shingles.
 The generated arrangement pattern was exported from Rhino back into Revit. A similar approach was employed to generate a pattern and arrays of panels following a radial arrangement.
 The workflow was operatied from within Revit with a dedicated tool. Operation of the tool was shown with a screen capture video.
 _Remark: This presentation did not document the application of language models; it presented the integration of Revit, Rhino and an algorithmic solver._
 
-## Session 2: Integration of data collections for job site management, by "Open Space".
-This Californian company proposes an imaginary platform for integrating different data collections.
+## Session 2: Integration of data collections for job site management
+The Californian company "Open Space" proposes an imaginary platform for integrating different data collections.
 The idea is to integrate point cloud recorded with rayban sunglasses, sensor position data, as well as language model analysis of layout drawings, 360 site photos, norms and requirements.
 The hypothetical integrated system would then enable a user to track job process, identify code violations and safety issues, delays in execution, process invoices and payments, and so forth.
 No actual projects were presented, only possibilities, a few non-live examples, and many stock-footage like 3D animations.
 _Remark: This speaker used the word "imagine" many times; the presentation was heavily speculative and hype-oriented; whether a stable, fast, efficient system, that runs reliably on low-grade hardware, can at all be created, remains to be seen._
 
-## Session 3: Integrated language model system for checking technical room compliance in project "Grand Paris Express", by EGIS engineering company (FR).
-This French engineering team was tasked with designing the technical rooms for the massive Grand Paris Express metro line.
+## Session 3: Integrated language model system for checking technical room compliance in project "Grand Paris Express",
+French engineering / developers team at EGIS was tasked with designing a system for evaluating a large number of technical rooms designs, for the massive Grand Paris Express metro line.
 The automation team created a system which could answer user questions on the design of thechnical rooms, specifically about norm compliance or clashes.
 The system read and analyzed hundreds of Revit models and hundreds of norm specifications.
 1) The human-written French norms are available as tables with admixed text, images, formatting and so on. These were converted to JSON tables of parameters with a language model.
