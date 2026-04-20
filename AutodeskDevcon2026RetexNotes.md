@@ -4,6 +4,7 @@ The Event was organized by Autodesk with participation by a number of collaborat
 The event took place on wednesday 15 and thursday april 16, 2026, at the Beurs van Berlage in Amsterdam.
 
 ## Session 1: Automatic pattern generation for tiling the spherical roof of the Sydney opera house, by "4G Architecture".
+
 The Revit model is imported in Rhino to generate a parametric mesh.
 To generate the mesh, dimensions and parameters of the shingles were also recorded.
 An algorithm called "kangaroo solver" iterated through solutions to find a suitable arrangement of shingles.
@@ -15,6 +16,7 @@ _Remark: This presentation did not document the application of language models; 
 _Remark: The first slide showed an AI-generated "spacecraft"-like façade, with a wrongly fitting "window". The audience took pictures of it; apparently the public still buys this slop._
 
 ## Session 2: Integration of data collections for job site management, by "Open Space".
+
 This Californian company proposes a concept platform for integrating different data collections.
 The idea is to integrate the following data collections:
 1) point cloud, captured with lidar glasses
