@@ -12,7 +12,7 @@ _Remark: This presentation did not document the application of language models; 
 
 ## Session 2: Integration of data collections for job site management, by "Open Space".
 This Californian company proposes an imaginary platform for integrating different data collections.
-The idea is to integrate point cloud, rayban sunglasses, sensor position data, language model analysis of layout drawings, 360 site photos, norms and requirements.
+The idea is to integrate point cloud recorded with rayban sunglasses, sensor position data, language model analysis of layout drawings, 360 site photos, norms and requirements.
 The hypothetical integrated system would then enable a user to track job process, identify code violations and safety issues, delays in execution, process invoices and payments, and so forth.
 No actual projects were presented, only possibilities, a few non-live examples, and many stock-footage like 3D animations.
 _Remark: This speaker used the word "imagine" many times; the presentation was heavily speculative and hype-oriented; whether a stable, fast, efficient system, that runs reliably on low-grade hardware, can at all be created, remains to be seen._
