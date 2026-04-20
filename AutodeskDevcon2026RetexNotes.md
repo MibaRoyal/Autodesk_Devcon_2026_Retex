@@ -56,15 +56,16 @@ _Remark: It is unclear how the article measures theoretical AI coverage and "str
 A leaflet was handed out, pointing to Bosch’s article about their Open Building Service Reference. The article says it wants to turn messy building data into usable digital building models for maintenance and operations. That basic idea is plausible.
 _Remark: The rest of the article feels inflated, lots of catchy jargon with little proof. It reads more like a strategy pitch and hype-milking than a serious engineering solution._
 
-# Concluding personal remarks
-The event was clearly commercial in nature.
+# Concluding remarks
 Two of the four presentation I attended were actual solutions to problems using AI; the other two were little more than proofs of concept and hypotheses.
 Of the presentation I attended:
 1) Converting information in human formats, such as norms and standards, into information searchable by machines: this was discussed by EGIS, Bosch, Open Space; only EGIS presented a real-world use of this solution.
 2) Integrating information in diverse formats (PDF, Revit, etc) is a real behoefte; no field-proven solution was presented.
 3) Observing and "understanding" images, photos and drawings, is a real behoefte; no field-proven solution was presented.
 4) The presented "platforms" or "systems" were either simple sandboxes, proofs-of-concepts.
-5) The first presentation contained slide showing an AI-generated "spacecraft"-like façade, with a wrongly fitting "window". The audience rushed to take photos, showing interest in the slop.
+
+The first presentation contained slide showing an AI-generated "spacecraft"-like façade, with a wrongly fitting "window". The audience rushed to take photos, showing interest in the slop.
+The event was clearly commercial in nature, with many logos, free lunch, catchy slogans, presentations of barely working hypothetical and experimental systems.
 
 
 
