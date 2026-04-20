@@ -63,8 +63,9 @@ Of the presentation I attended:
 2) Reading and understanding Revit files seems possible; processing and modifying the Revit information might be possible with Viktor, to a certain degree, after getting used to the buggy workflow.
 3) Reading and understanding layout drawings is a real behoefte; no clearly field-proven solution was presented.
 4) The presented "platforms" or "systems"  Viktor and OpenSpace were little more than sandboxes or proofs-of-concept.
+
 The event was clearly commercial in nature, with many logos, free lunch, catchy slogans, presentations of barely working hypothetical and experimental systems.
-The first presentation contained slide showing an AI-generated "spacecraft"-like façade, with a wrongly fitting "window". The audience rushed to take photos, betraying ongoing interest in fancy slop. Actual engineering solutions are boring and not eye-catching.
+Actual engineering solutions, typically more plain and drab, were not prominently visible.
 
 
 
